@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "How The Story Ends",
+  "base_artist": "All Time Low",
+  "createdAt": "2026-03-31T06:43:24.235562Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How the Story Ends",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/01_How_the_Story_Ends_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "How the Story Ends",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/02_How_the_Story_Ends_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "10 - How The Story Ends",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/03_10_-_How_The_Story_Ends_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "How The Story Ends",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/04_How_The_Story_Ends_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "How the Story Ends",
+      "artist": "The Ferrymen",
+      "has_synced": true,
+      "path": "select/05_How_the_Story_Ends_The_Ferrymen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "How The Story Ends",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/06_How_The_Story_Ends_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "How the Story Ends (2019 - Remaster)",
+      "artist": "Megadeth",
+      "has_synced": false,
+      "path": "select/07_How_the_Story_Ends_(2019_-_Remaster)_Megadeth.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "How the Story Ends",
+      "artist": "together PANGEA",
+      "has_synced": true,
+      "path": "select/08_How_the_Story_Ends_together_PANGEA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "How The Story Ends (Album Version)",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/09_How_The_Story_Ends_(Album_Version)_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "How the Story Ends",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/10_How_the_Story_Ends_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "How the Story Ends",
+      "artist": "The Orion Experience",
+      "has_synced": true,
+      "path": "select/11_How_the_Story_Ends_The_Orion_Experience.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "How the Story Ends",
+      "artist": "The Notwist",
+      "has_synced": true,
+      "path": "select/12_How_the_Story_Ends_The_Notwist.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "How The Story Ends",
+      "artist": "All Time Low",
+      "has_synced": false,
+      "path": "select/pl_01_How_The_Story_Ends_All_Time_Low.txt"
+    }
+  ]
+}
